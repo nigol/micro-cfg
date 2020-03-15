@@ -26,7 +26,7 @@
     "paste": false,
     "readonly": false,
     "rmtrailingws": false,
-    "ruler": true,
+    "ruler": false,
     "savecursor": false,
     "savehistory": true,
     "saveundo": false,
